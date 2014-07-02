@@ -1,0 +1,5 @@
+Apple, 20
+Orange, 50
+Blackberry, 150
+Orange, 45
+Apple, 5
